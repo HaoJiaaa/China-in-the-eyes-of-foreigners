@@ -17,6 +17,13 @@ Here we go~
 
 ---
 
+* [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
+
+> A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
+* [Chinese Zoo Denies, in Voice of a Bear, That Sun Bear Is a Person in a Suit](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html?searchResultPosition=16) By [Alan Yuhas](https://www.nytimes.com/by/alan-yuhas) and [Chang Che](https://www.nytimes.com/by/chang-che) [2023/08/01]
+
+> The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
+
 * [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken)
   By Alex Lo  [2023/07/24]
 
