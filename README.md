@@ -1,6 +1,6 @@
 # China in the Eyes of Foreigners
 This is a collection of interesting articles about modern China.
-> We used to Bypass the great wall to know more about the West, but now, we do that to understand China better. 
+> We used to climb over the great wall to know more about the West, but now, we do that to understand China better. 
 
 To read the articles below, these tricks could help you:
 1. download and install [Bypass paywall](https://github.com/iamadamdev/bypass-paywalls-chrome)
@@ -36,13 +36,11 @@ Here we go~
 
 > The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
 
-* [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken)
-  By Alex Lo  [2023/07/24]
+* [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
 
 > Muammar Gaddafi died with a bayonet stuck out of his rear end. Saddam Hussein was almost completely decapitated when he was hanged because his executioners didn’t do, or didn’t know how to do, the basic but essential maths that works out the ratio between the length of the rope and the weight of the condemned. It’s true what your old teacher told you about maths being useful in all kinds of situations and professions. Besides the commonality of their gruesome deaths, they also had something else in common: both gave up their nuclear weapons programme.
 
-* [For North Koreans in China, Seeking Freedom Is More Perilous Than Ever](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
-  By Choe Sang-Hun  [2023/07/09]
+* [For North Koreans in China, Seeking Freedom Is More Perilous Than Ever](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html) By Choe Sang-Hun  [2023/07/09]
 
 > “I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”“I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”
 
