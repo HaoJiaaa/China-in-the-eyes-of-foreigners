@@ -57,7 +57,7 @@ Here we go~
 
 > He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.
 
-* [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/) [2023/06/29]
+* [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/)  By Michael Schuman [2023/06/29]
 
 > An online post by the Communist Party Youth League and state broadcaster CCTV used the fate of Kong Yiji to scold the young and jobless as arrogant and lazy. Kong failed “because he couldn’t let go of the airs of a scholar and was unwilling to change his situation through labor,” the post lectured. Xi—who has said he opposes the “idleness-breeding trap of welfarism”—has told his nation’s struggling youth to learn to “eat bitterness.”
 
