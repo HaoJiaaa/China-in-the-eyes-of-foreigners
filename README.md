@@ -17,6 +17,10 @@ Here we go~
 
 ---
 
+*[Xi Jinping’s revealing response to floods and heatwaves](https://www.economist.com/china/2023/08/04/xi-jinpings-revealing-response-to-floods-and-heatwaves) By The Economist [2023/08/04]
+
+>Alas, the party seems allergic to freewheeling grassroots debate about whether the climate is changing. To date, most public discussion about China’s year of extreme weather has been strikingly inward-looking. State-media outlets have dwelled on heroics by soldiers, officials and rescue teams. Netizens have complained about instances of official incompetence. Social-media users have asked whether storm warnings were given in time, or whether floodwaters were diverted away from Beijing towards less privileged places.
+
 * [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
 
 > This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism. 
