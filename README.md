@@ -17,7 +17,11 @@ Here we go~
 
 ---
 
-*[Xi Jinping’s revealing response to floods and heatwaves](https://www.economist.com/china/2023/08/04/xi-jinpings-revealing-response-to-floods-and-heatwaves) By The Economist [2023/08/04]
+* [Bankers Chasing Deals in China Turn to ‘Throwing Eggs’ Card Game](https://www.bloomberg.com/news/articles/2023-08-06/bankers-chasing-deals-in-china-turn-to-throwing-eggs-card-game?srnd=asia-politics) By Alfred Cang and Chongjing Li [2023/08/07]
+
+> The game is the latest way to tap into or improve one’s guanxi, a term that describes the sometimes exclusionary social circles, influence connections and relationships that help grease the wheels of commerce everywhere. As in other countries, guanxi can pave the way for business deals in China — as well as serve as a source of corruption.
+
+* [Xi Jinping’s revealing response to floods and heatwaves](https://www.economist.com/china/2023/08/04/xi-jinpings-revealing-response-to-floods-and-heatwaves) By The Economist [2023/08/04]
 
 >Alas, the party seems allergic to freewheeling grassroots debate about whether the climate is changing. To date, most public discussion about China’s year of extreme weather has been strikingly inward-looking. State-media outlets have dwelled on heroics by soldiers, officials and rescue teams. Netizens have complained about instances of official incompetence. Social-media users have asked whether storm warnings were given in time, or whether floodwaters were diverted away from Beijing towards less privileged places.
 
@@ -50,6 +54,14 @@ Here we go~
   By Bloomberg News With Allen K Wan, Amanda Wang, Zheng Li, and Qi Ding [2023/07/06]
 
 > Meticulous planning, in-depth research and long-distance travel — welcome to the “special forces-style” hunt for the best bank deposit rates in China.
+
+* [China Took Her Husband. She Was Left to Uncover His Secret Cause.](https://www.nytimes.com/2023/07/05/world/asia/china-dissident-blog-program-think.html) By Vivian Wang [2023/07/05]
+
+> He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.
+
+* [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/) [2023/06/29]
+
+> An online post by the Communist Party Youth League and state broadcaster CCTV used the fate of Kong Yiji to scold the young and jobless as arrogant and lazy. Kong failed “because he couldn’t let go of the airs of a scholar and was unwilling to change his situation through labor,” the post lectured. Xi—who has said he opposes the “idleness-breeding trap of welfarism”—has told his nation’s struggling youth to learn to “eat bitterness.”
 
 * [People in China are so worried about the economy they’re asking for divine intervention](https://edition.cnn.com/2023/06/09/economy/china-unemployment-temple-lottery-intl-hnk/index.html)
   By Laura He [2023/06/09]
