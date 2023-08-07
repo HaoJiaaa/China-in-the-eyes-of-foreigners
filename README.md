@@ -30,8 +30,11 @@ Here we go~
 > This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism. 
 
 * [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
-
 > A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
+
+* [The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html) By Han Zhang [2023/08/03]
+> After Hao submitted the manuscript to Hardie Grant Books, his Australian publisher, in spring 2021, his editors urged him to leave China out of concern for his safety. He equivocated. A few years in prison was a price he was willing to pay for the book’s publication.
+  
 * [Chinese Zoo Denies, in Voice of a Bear, That Sun Bear Is a Person in a Suit](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html?searchResultPosition=16) By [Alan Yuhas](https://www.nytimes.com/by/alan-yuhas) and [Chang Che](https://www.nytimes.com/by/chang-che) [2023/08/01]
 
 > The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
