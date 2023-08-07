@@ -17,6 +17,10 @@ Here we go~
 
 ---
 
+* [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
+
+> This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism. 
+
 * [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
 
 > A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
