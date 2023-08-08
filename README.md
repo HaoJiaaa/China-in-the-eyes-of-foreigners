@@ -17,6 +17,14 @@ Here we go~
 
 ---
 
+* [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
+
+> On Sunday, the state-owned tabloid Global Times criticized the coverage of the flooding by Western media outlets, describing reporting on grievances held by people in Hebei as “hype” that is “trying to sow discord between Chinese people and the government.”
+
+* [Bankers Forced to Study Xi’s Thoughts as Party Tightens Grip](https://www.bloomberg.com/news/articles/2023-08-08/bankers-forced-to-study-xi-s-thoughts-as-party-tightens-grip) By John Liu [2023/08/08]
+
+> Even employees at global firms including BlackRock Inc., the world’s biggest fund manager, have been called in to attend lectures on the topic by regulators.The study sessions — viewed by some as time-consuming chores — underscore the growing role of ideology in China as Xi tries to increase the party’s influence over many aspects of local life, including a corporate sector that’s been chastened in recent years by a series of government crackdowns.
+
 * [Bankers Chasing Deals in China Turn to ‘Throwing Eggs’ Card Game](https://www.bloomberg.com/news/articles/2023-08-06/bankers-chasing-deals-in-china-turn-to-throwing-eggs-card-game?srnd=asia-politics) By Alfred Cang and Chongjing Li [2023/08/07]
 
 > The game is the latest way to tap into or improve one’s guanxi, a term that describes the sometimes exclusionary social circles, influence connections and relationships that help grease the wheels of commerce everywhere. As in other countries, guanxi can pave the way for business deals in China — as well as serve as a source of corruption.
@@ -31,6 +39,10 @@ Here we go~
 
 * [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
 > A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
+
+* [Xi’s Spent Two Days Outside China in 2023 as Problems Mount](https://www.bloomberg.com/news/articles/2023-08-03/xi-jinping-isn-t-traveling-to-deal-with-china-s-economy-political-scandals) By John Liu and Jill Elaine Disis
+
+> Two days is all President Xi Jinping has spent outside his country this year, as mounting domestic problems from a faltering economy to rare political scandals demand the Chinese leader’s attention at home.
 
 * [The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html) By Han Zhang [2023/08/03]
 > After Hao submitted the manuscript to Hardie Grant Books, his Australian publisher, in spring 2021, his editors urged him to leave China out of concern for his safety. He equivocated. A few years in prison was a price he was willing to pay for the book’s publication.
