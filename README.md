@@ -4,7 +4,7 @@ This is a collection of interesting articles about modern China.
 
 To read the articles below, these tricks could help you:
 1. download and install [Bypass paywall](https://github.com/iamadamdev/bypass-paywalls-chrome)
-2. download and install [bypass paywalls clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+2. download and install [Bypass paywalls clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 3. copy and paste the article's link to webpage archive sites like [https://archive.md/](https://archive.md/)
 
 **If you can afford it, please support good journalism.**
@@ -16,6 +16,10 @@ I hope you enjoy reading these articles as much as I do.
 Here we go~
 
 ---
+
+* [Investors Visiting China Find Officials Fearful of Upsetting Xi](https://www.bloomberg.com/news/articles/2023-08-08/xi-speak-and-closed-doors-obscure-china-s-18-trillion-economy) By Lucille Liu, Rebecca Choong Wilkins, Richard Henderson, Jing Li, Yujing Liu, and Colum Murphy [2023/08/09]
+
+> Accounts from more than a dozen people, some who asked not to be identified to speak freely, describe dinner invitations that were seen as potential ethics breaches and politely declined, silence around taboo topics such as deflation and bland party speak replacing the honest exchange of ideas. Once-familiar officials, they said, are now fearful of breaching newly broadened anti-espionage laws as President Xi Jinping grows more wary of the US and its allies.
 
 * [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
 
@@ -40,16 +44,24 @@ Here we go~
 * [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
 > A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
 
-* [Xi’s Spent Two Days Outside China in 2023 as Problems Mount](https://www.bloomberg.com/news/articles/2023-08-03/xi-jinping-isn-t-traveling-to-deal-with-china-s-economy-political-scandals) By John Liu and Jill Elaine Disis
+* [Xi’s Spent Two Days Outside China in 2023 as Problems Mount](https://www.bloomberg.com/news/articles/2023-08-03/xi-jinping-isn-t-traveling-to-deal-with-china-s-economy-political-scandals) By John Liu and Jill Elaine Disis [2023/08/04]
 
 > Two days is all President Xi Jinping has spent outside his country this year, as mounting domestic problems from a faltering economy to rare political scandals demand the Chinese leader’s attention at home.
 
 * [The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html) By Han Zhang [2023/08/03]
 > After Hao submitted the manuscript to Hardie Grant Books, his Australian publisher, in spring 2021, his editors urged him to leave China out of concern for his safety. He equivocated. A few years in prison was a price he was willing to pay for the book’s publication.
+
+* [China Official’s Call to Save Xi’s City. Angers Flood Victims.](https://www.bloomberg.com/news/articles/2023-08-03/china-officials-call-to-save-xi-s-projects-angers-flood-victims#xj4y7vzkg) By John Liu, Jing Li, Colum Murphy, Zheng Wu, Jenni Marsh, and Charlie Zhu [2023/08/03]
+
+> Chinese flood victims in hard hit areas of northern China have taken aim at a key Communist Party official, saying he sacrificed their safety to protect President Xi Jinping’s flagship projects.
   
 * [Chinese Zoo Denies, in Voice of a Bear, That Sun Bear Is a Person in a Suit](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html?searchResultPosition=16) By [Alan Yuhas](https://www.nytimes.com/by/alan-yuhas) and [Chang Che](https://www.nytimes.com/by/chang-che) [2023/08/01]
 
 > The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
+
+* [‘If I left, I’d have to go without a word’: how I escaped China’s mass arrests](https://www.theguardian.com/world/2023/aug/01/my-escape-from-chinas-mass-arrests-uyghurs-xinjiang-reeducation-camps) By [Tahir Hamut Izgil](https://www.theguardian.com/profile/tahir-hamut-izgil) [2023/08/01]
+
+> Slowing down, I peered through my car window at the yard. About 100, or perhaps 200 Uyghurs stood there in silent uncertainty, while armed special police, clad in black, loaded them on to two buses parked in the courtyard. A few of the people boarding the buses looked longingly out of the yard. I felt a chill come over me. The mass arrests had reached Urumqi.
 
 * [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
 
