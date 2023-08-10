@@ -21,6 +21,10 @@ Here we go~
 
 > Accounts from more than a dozen people, some who asked not to be identified to speak freely, describe dinner invitations that were seen as potential ethics breaches and politely declined, silence around taboo topics such as deflation and bland party speak replacing the honest exchange of ideas. Once-familiar officials, they said, are now fearful of breaching newly broadened anti-espionage laws as President Xi Jinping grows more wary of the US and its allies.
 
+* [How America is failing to break up with China](https://www.economist.com/finance-and-economics/2023/08/08/how-america-is-failing-to-break-up-with-china) By the Economist [2023/08/08]
+
+> Ironically, then, the process driving America and China apart in trade and investment may actually be forging stronger financial and commercial connections between China and America’s allies.
+
 * [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
 
 > On Sunday, the state-owned tabloid Global Times criticized the coverage of the flooding by Western media outlets, describing reporting on grievances held by people in Hebei as “hype” that is “trying to sow discord between Chinese people and the government.”
