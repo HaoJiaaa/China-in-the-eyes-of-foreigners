@@ -13,7 +13,7 @@ I'm really impressed by how fast some journalists catch up with the latest trend
 
 I hope you enjoy reading these articles as much as I do. 
 
-**Note: The articles are arranged according to their publishing date. New stories will be marked with a special tag 🚀️ at the beginning of their titles.**
+**Note: The articles are arranged according to their publishing date. Newly added stories will be marked with a special tag 🚀️ at the beginning of their titles.**
 
 Here we go~
 
