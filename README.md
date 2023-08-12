@@ -13,9 +13,14 @@ I'm really impressed by how fast some journalists catch up with the latest trend
 
 I hope you enjoy reading these articles as much as I do. 
 
+**Note: The articles are arranged according to their publishing date. New stories will be marked with a special tag 🚀️ at the beginning of their titles.**
+
 Here we go~
 
 ---
+
+
+## Business & Economy
 
 * [Investors Visiting China Find Officials Fearful of Upsetting Xi](https://www.bloomberg.com/news/articles/2023-08-08/xi-speak-and-closed-doors-obscure-china-s-18-trillion-economy) By Lucille Liu, Rebecca Choong Wilkins, Richard Henderson, Jing Li, Yujing Liu, and Colum Murphy [2023/08/09]
 
@@ -25,10 +30,6 @@ Here we go~
 
 > Ironically, then, the process driving America and China apart in trade and investment may actually be forging stronger financial and commercial connections between China and America’s allies.
 
-* [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
-
-> On Sunday, the state-owned tabloid Global Times criticized the coverage of the flooding by Western media outlets, describing reporting on grievances held by people in Hebei as “hype” that is “trying to sow discord between Chinese people and the government.”
-
 * [Bankers Forced to Study Xi’s Thoughts as Party Tightens Grip](https://www.bloomberg.com/news/articles/2023-08-08/bankers-forced-to-study-xi-s-thoughts-as-party-tightens-grip) By John Liu [2023/08/08]
 
 > Even employees at global firms including BlackRock Inc., the world’s biggest fund manager, have been called in to attend lectures on the topic by regulators.The study sessions — viewed by some as time-consuming chores — underscore the growing role of ideology in China as Xi tries to increase the party’s influence over many aspects of local life, including a corporate sector that’s been chastened in recent years by a series of government crackdowns.
@@ -37,56 +38,48 @@ Here we go~
 
 > The game is the latest way to tap into or improve one’s guanxi, a term that describes the sometimes exclusionary social circles, influence connections and relationships that help grease the wheels of commerce everywhere. As in other countries, guanxi can pave the way for business deals in China — as well as serve as a source of corruption.
 
-* [Xi Jinping’s revealing response to floods and heatwaves](https://www.economist.com/china/2023/08/04/xi-jinpings-revealing-response-to-floods-and-heatwaves) By The Economist [2023/08/04]
+* 🚀️ [The End of China’s Economic Miracle](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington) By [Adam S. Posen](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington#author-info)  [2023/08/02]
 
->Alas, the party seems allergic to freewheeling grassroots debate about whether the climate is changing. To date, most public discussion about China’s year of extreme weather has been strikingly inward-looking. State-media outlets have dwelled on heroics by soldiers, officials and rescue teams. Netizens have complained about instances of official incompetence. Social-media users have asked whether storm warnings were given in time, or whether floodwaters were diverted away from Beijing towards less privileged places.
-
-* [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
-
-> This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism. 
-
-* [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
-> A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
-
-* [Xi’s Spent Two Days Outside China in 2023 as Problems Mount](https://www.bloomberg.com/news/articles/2023-08-03/xi-jinping-isn-t-traveling-to-deal-with-china-s-economy-political-scandals) By John Liu and Jill Elaine Disis [2023/08/04]
-
-> Two days is all President Xi Jinping has spent outside his country this year, as mounting domestic problems from a faltering economy to rare political scandals demand the Chinese leader’s attention at home.
-
-* [The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html) By Han Zhang [2023/08/03]
-> After Hao submitted the manuscript to Hardie Grant Books, his Australian publisher, in spring 2021, his editors urged him to leave China out of concern for his safety. He equivocated. A few years in prison was a price he was willing to pay for the book’s publication.
-
-* [China Official’s Call to Save Xi’s City. Angers Flood Victims.](https://www.bloomberg.com/news/articles/2023-08-03/china-officials-call-to-save-xi-s-projects-angers-flood-victims#xj4y7vzkg) By John Liu, Jing Li, Colum Murphy, Zheng Wu, Jenni Marsh, and Charlie Zhu [2023/08/03]
-
-> Chinese flood victims in hard hit areas of northern China have taken aim at a key Communist Party official, saying he sacrificed their safety to protect President Xi Jinping’s flagship projects.
-  
-* [Chinese Zoo Denies, in Voice of a Bear, That Sun Bear Is a Person in a Suit](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html?searchResultPosition=16) By [Alan Yuhas](https://www.nytimes.com/by/alan-yuhas) and [Chang Che](https://www.nytimes.com/by/chang-che) [2023/08/01]
-
-> The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
-
-* [‘If I left, I’d have to go without a word’: how I escaped China’s mass arrests](https://www.theguardian.com/world/2023/aug/01/my-escape-from-chinas-mass-arrests-uyghurs-xinjiang-reeducation-camps) By [Tahir Hamut Izgil](https://www.theguardian.com/profile/tahir-hamut-izgil) [2023/08/01]
-
-> Slowing down, I peered through my car window at the yard. About 100, or perhaps 200 Uyghurs stood there in silent uncertainty, while armed special police, clad in black, loaded them on to two buses parked in the courtyard. A few of the people boarding the buses looked longingly out of the yard. I felt a chill come over me. The mass arrests had reached Urumqi.
-
-* [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
-
-> Muammar Gaddafi died with a bayonet stuck out of his rear end. Saddam Hussein was almost completely decapitated when he was hanged because his executioners didn’t do, or didn’t know how to do, the basic but essential maths that works out the ratio between the length of the rope and the weight of the condemned. It’s true what your old teacher told you about maths being useful in all kinds of situations and professions. Besides the commonality of their gruesome deaths, they also had something else in common: both gave up their nuclear weapons programme.
-
-* [For North Koreans in China, Seeking Freedom Is More Perilous Than Ever](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html) By Choe Sang-Hun  [2023/07/09]
-
-> “I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”“I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”
-
-* [‘Anti-American’ Chinese pundit faces backlash for attending Independence Day party at US Embassy in Beijing](https://edition.cnn.com/2023/07/06/china/china-simanan-us-embassy-independence-day-intl-hnk/index.html) By Nectar Gan [2023/07/07]
-
->   “Sima Nan is not alone. He is the epitome of millions of Chinese who, after the policy of reform and opening up, adapted to an environment where profit-seeking has replaced faith. They talk about ideological doctrines but only care about doing business at heart.”
+> Economic development in authoritarian regimes tends to follow a predictable pattern: a period of growth as the regime allows politically compliant businesses to thrive, fed by public largess. But once the regime has secured support, it begins to intervene in the economy in increasingly arbitrary ways. Eventually, in the face of uncertainty and fear, households and small businesses start to prefer holding cash to illiquid investment; as a result, growth persistently declines.
 
 * [The Hunt for Best Bank Savings Rate in China May Require Trekking Hundreds of Miles](https://www.bloomberg.com/news/articles/2023-07-06/china-savers-trek-hundreds-of-miles-for-higher-deposit-rates#xj4y7vzkg)
   By Bloomberg News With Allen K Wan, Amanda Wang, Zheng Li, and Qi Ding [2023/07/06]
 
 > Meticulous planning, in-depth research and long-distance travel — welcome to the “special forces-style” hunt for the best bank deposit rates in China.
 
-* [China Took Her Husband. She Was Left to Uncover His Secret Cause.](https://www.nytimes.com/2023/07/05/world/asia/china-dissident-blog-program-think.html) By Vivian Wang [2023/07/05]
+* [Can the World Make an Electric Car Battery Without China?](https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html)
+  By Agnes Chang [2023/05/16]
 
-> He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.
+> It is one of the defining competitions of our age: The countries that can make batteries for electric cars will reap decades of economic and geopolitical advantages. Despite billions in Western investment, China is so far ahead — mining rare minerals, training engineers and building huge factories — that the rest of the world may take decades to catch up.
+
+## Politics
+
+
+* [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
+
+> On Sunday, the state-owned tabloid Global Times criticized the coverage of the flooding by Western media outlets, describing reporting on grievances held by people in Hebei as “hype” that is “trying to sow discord between Chinese people and the government.”
+
+* [Xi Jinping’s revealing response to floods and heatwaves](https://www.economist.com/china/2023/08/04/xi-jinpings-revealing-response-to-floods-and-heatwaves) By The Economist [2023/08/04]
+
+> Alas, the party seems allergic to freewheeling grassroots debate about whether the climate is changing. To date, most public discussion about China’s year of extreme weather has been strikingly inward-looking. State-media outlets have dwelled on heroics by soldiers, officials and rescue teams. Netizens have complained about instances of official incompetence. Social-media users have asked whether storm warnings were given in time, or whether floodwaters were diverted away from Beijing towards less privileged places.
+
+* [Anger Builds in Towns Deliberately Flooded, in Part, to Save Beijing](https://www.nytimes.com/2023/08/04/world/asia/china-flood-beijing-rain.html?searchResultPosition=5) By [Keith Bradsher](https://www.nytimes.com/by/keith-bradsher) [2023/08/04]
+
+> A provincial leader set off an outcry by urging cities to serve as a “moat” for the capital, as diverted floodwaters sent scores of residents fleeing.
+
+* [Xi’s Spent Two Days Outside China in 2023 as Problems Mount](https://www.bloomberg.com/news/articles/2023-08-03/xi-jinping-isn-t-traveling-to-deal-with-china-s-economy-political-scandals) By John Liu and Jill Elaine Disis [2023/08/04]
+
+> Two days is all President Xi Jinping has spent outside his country this year, as mounting domestic problems from a faltering economy to rare political scandals demand the Chinese leader’s attention at home.
+
+* [China Official’s Call to Save Xi’s City. Angers Flood Victims.](https://www.bloomberg.com/news/articles/2023-08-03/china-officials-call-to-save-xi-s-projects-angers-flood-victims#xj4y7vzkg) By John Liu, Jing Li, Colum Murphy, Zheng Wu, Jenni Marsh, and Charlie Zhu [2023/08/03]
+
+> Chinese flood victims in hard hit areas of northern China have taken aim at a key Communist Party official, saying he sacrificed their safety to protect President Xi Jinping’s flagship projects.
+
+* [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
+
+> Muammar Gaddafi died with a bayonet stuck out of his rear end. Saddam Hussein was almost completely decapitated when he was hanged because his executioners didn’t do, or didn’t know how to do, the basic but essential maths that works out the ratio between the length of the rope and the weight of the condemned. It’s true what your old teacher told you about maths being useful in all kinds of situations and professions. Besides the commonality of their gruesome deaths, they also had something else in common: both gave up their nuclear weapons programme.
+
+## Culture & Society
 
 * [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/)  By Michael Schuman [2023/06/29]
 
@@ -102,11 +95,6 @@ Here we go~
 
 > Inside this Coachella for barbecue, visitors could pose with a mascot dressed like a meat skewer. They could watch a concert against an LED backdrop of radiating flames. They could eat from one of the hundreds of grills scattered across the grounds the size of 12 football fields — if they waited hours for a table, and if their chosen meat purveyor hadn’t run out of food.
 
-* [Can the World Make an Electric Car Battery Without China?](https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html)
-  By Agnes Chang [2023/05/16]
-
-> It is one of the defining competitions of our age: The countries that can make batteries for electric cars will reap decades of economic and geopolitical advantages. Despite billions in Western investment, China is so far ahead — mining rare minerals, training engineers and building huge factories — that the rest of the world may take decades to catch up.
-
 * [Hollywood is losing the battle for China](https://www.economist.com/interactive/2023/04/29/hollywood-is-losing-the-battle-for-china) By The Economist [2023/04/26]
 
 > To Western viewers, such pro-government stories may seem crude (although the makers of “Born to Fly” could point out that “Top Gun” was produced with the blessing of America’s navy). But their popularity suggests that the Communist Party’s propaganda organs are making an impact. Increasingly, home-grown cinema is shaping how a generation of Chinese people view their country and its place in the world.
@@ -115,3 +103,62 @@ Here we go~
   By Jacob Dreyer [2023/01/26]
 
 > The pandemic woke China’s young people up to the reality that their society is oriented to the values and priorities of the elderly, whose truths are very different from their own.
+
+## Stories of Individuals
+
+* [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
+
+> This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism.
+
+* [The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html) By Han Zhang [2023/08/03]
+
+> After Hao submitted the manuscript to Hardie Grant Books, his Australian publisher, in spring 2021, his editors urged him to leave China out of concern for his safety. He equivocated. A few years in prison was a price he was willing to pay for the book’s publication.
+
+* [‘If I left, I’d have to go without a word’: how I escaped China’s mass arrests](https://www.theguardian.com/world/2023/aug/01/my-escape-from-chinas-mass-arrests-uyghurs-xinjiang-reeducation-camps) By [Tahir Hamut Izgil](https://www.theguardian.com/profile/tahir-hamut-izgil) [2023/08/01]
+
+> Slowing down, I peered through my car window at the yard. About 100, or perhaps 200 Uyghurs stood there in silent uncertainty, while armed special police, clad in black, loaded them on to two buses parked in the courtyard. A few of the people boarding the buses looked longingly out of the yard. I felt a chill come over me. The mass arrests had reached Urumqi.
+
+* [For North Koreans in China, Seeking Freedom Is More Perilous Than Ever](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html) By Choe Sang-Hun  [2023/07/09]
+
+> “I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”“I have been aiding North Koreans for 23 years,” Mr. Chun said. “I have never felt this sad and helpless.”
+
+* [‘Anti-American’ Chinese pundit faces backlash for attending Independence Day party at US Embassy in Beijing](https://edition.cnn.com/2023/07/06/china/china-simanan-us-embassy-independence-day-intl-hnk/index.html) By Nectar Gan [2023/07/07]
+
+> “Sima Nan is not alone. He is the epitome of millions of Chinese who, after the policy of reform and opening up, adapted to an environment where profit-seeking has replaced faith. They talk about ideological doctrines but only care about doing business at heart.”
+
+* [China Took Her Husband. She Was Left to Uncover His Secret Cause.](https://www.nytimes.com/2023/07/05/world/asia/china-dissident-blog-program-think.html) By Vivian Wang [2023/07/05]
+
+> He was brilliant, quirky and intensely private — and also, she now suspects, an anonymous dissident blogger who had won fame for years of evading the surveillance state.
+
+## Funny and Weird Stories
+
+* [Chinese Zoo Denies, in Voice of a Bear, That Sun Bear Is a Person in a Suit](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html?searchResultPosition=16) By [Alan Yuhas](https://www.nytimes.com/by/alan-yuhas) and [Chang Che](https://www.nytimes.com/by/chang-che) [2023/08/01]
+
+> The statement insisted that the bear was truly a bear, as opposed to a person pretending to be a bear — or a person pretending to be a bear insisting they were not a person pretending to be a bear.
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
