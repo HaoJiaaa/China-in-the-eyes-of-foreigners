@@ -81,6 +81,10 @@ Here we go~
 
 ## Culture & Society
 
+* 🚀️ [Why Chinese women are denied legal land rights](https://www.economist.com/china/2023/08/10/why-chinese-women-are-denied-legal-land-rights) By the Economist [2023/08/10]
+
+>The National People’s Congress is pondering changes to the law to improve the definition of village land rights and membership of rural collectives. Reformers see a chance to advance gender equality. Alas, appeasing majority opinion weighs heavily on officials whose greatest duty, arguably, is weiwen, or stability maintenance. The Communist Party came to power promising to emancipate women from feudalism. Now it co-opts ancestral clans and their patriarchal values. China’s rulers are obsessed with order, as an adjunct to power. And power is in the party’s blood.
+
 * [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/)  By Michael Schuman [2023/06/29]
 
 > An online post by the Communist Party Youth League and state broadcaster CCTV used the fate of Kong Yiji to scold the young and jobless as arrogant and lazy. Kong failed “because he couldn’t let go of the airs of a scholar and was unwilling to change his situation through labor,” the post lectured. Xi—who has said he opposes the “idleness-breeding trap of welfarism”—has told his nation’s struggling youth to learn to “eat bitterness.”
