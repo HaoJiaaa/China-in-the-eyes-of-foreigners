@@ -22,7 +22,7 @@ Here we go~
 
 ## Business & Economy
 
-* [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
+* 🚀️ [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
 > “Spending behavior has changed, especially for the country’s younger population,” said Dickie Wong, director of research at Kingston Securities Ltd. “The country’s economic outlook is gloomy, many couldn’t find dream jobs after graduation, so why bother planning and saving to buy a house or a car? We see the trend of people more willing to spend on travel, go to hotpot, drink with friends and buy clothes — the sense that you only live once.”
 
 * 🚀️ [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
