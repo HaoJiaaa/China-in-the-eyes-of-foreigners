@@ -22,6 +22,9 @@ Here we go~
 
 ## Business & Economy
 
+* 🚀️ [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
+> The ruling Chinese Communist Party wants everyone to know that it is building “socialism with Chinese characteristics.” But based on its proven reluctance to spend on the Chinese people, even in circumstances that warrant short-term direct cash subsidies to consumers, the party looks more like a scrooge than a champion of socialism.
+
 * 🚀️ [Why Is China’s Economy Stumbling?](https://www.nytimes.com/2023/08/10/opinion/china-economy-decline.html) By PAUL KRUGMAN [2023/08/10]
 > But you don’t have to study much history to be aware that autocratic regimes sometimes respond to domestic difficulties by trying to distract the population with foreign adventurism. I’m not saying that will happen. But realistically, China’s domestic problems make it more, not less, of a danger to global security.
 
@@ -37,7 +40,7 @@ Here we go~
 * [Bankers Chasing Deals in China Turn to ‘Throwing Eggs’ Card Game](https://www.bloomberg.com/news/articles/2023-08-06/bankers-chasing-deals-in-china-turn-to-throwing-eggs-card-game?srnd=asia-politics) By Alfred Cang and Chongjing Li [2023/08/07]
 > The game is the latest way to tap into or improve one’s guanxi, a term that describes the sometimes exclusionary social circles, influence connections and relationships that help grease the wheels of commerce everywhere. As in other countries, guanxi can pave the way for business deals in China — as well as serve as a source of corruption.
 
-* 🚀️ [The End of China’s Economic Miracle](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington) By [Adam S. Posen](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington#author-info)  [2023/08/02]
+* [The End of China’s Economic Miracle](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington) By [Adam S. Posen](https://www.foreignaffairs.com/china/end-china-economic-miracle-beijing-washington#author-info)  [2023/08/02]
 > Economic development in authoritarian regimes tends to follow a predictable pattern: a period of growth as the regime allows politically compliant businesses to thrive, fed by public largess. But once the regime has secured support, it begins to intervene in the economy in increasingly arbitrary ways. Eventually, in the face of uncertainty and fear, households and small businesses start to prefer holding cash to illiquid investment; as a result, growth persistently declines.
 
 * [The Hunt for Best Bank Savings Rate in China May Require Trekking Hundreds of Miles](https://www.bloomberg.com/news/articles/2023-07-06/china-savers-trek-hundreds-of-miles-for-higher-deposit-rates#xj4y7vzkg) By Bloomberg News With Allen K Wan, Amanda Wang, Zheng Li, and Qi Ding [2023/07/06]
@@ -72,7 +75,7 @@ Here we go~
 
 ## Culture & Society
 
-* 🚀️ [Why Chinese women are denied legal land rights](https://www.economist.com/china/2023/08/10/why-chinese-women-are-denied-legal-land-rights) By the Economist [2023/08/10]
+* [Why Chinese women are denied legal land rights](https://www.economist.com/china/2023/08/10/why-chinese-women-are-denied-legal-land-rights) By the Economist [2023/08/10]
 >The National People’s Congress is pondering changes to the law to improve the definition of village land rights and membership of rural collectives. Reformers see a chance to advance gender equality. Alas, appeasing majority opinion weighs heavily on officials whose greatest duty, arguably, is weiwen, or stability maintenance. The Communist Party came to power promising to emancipate women from feudalism. Now it co-opts ancestral clans and their patriarchal values. China’s rulers are obsessed with order, as an adjunct to power. And power is in the party’s blood.
 
 * [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/)  By Michael Schuman [2023/06/29]
