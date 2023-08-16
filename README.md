@@ -55,7 +55,7 @@ Here we go~
 
 ## Politics
 
-* 🚀️ [When Tragedy Strikes in China, the Government Cracks Down on Grief] By Li Yuan [2023/08/14]
+* 🚀️ [When Tragedy Strikes in China, the Government Cracks Down on Grief](https://www.nytimes.com/2023/08/14/business/china-flooding-tragedy-mourning.html) By Li Yuan [2023/08/14]
 > In the view of the Chinese Communist Party, its rule should be celebrated no matter the circumstances. Victims of public tragedies are inconvenient facts highlighting that not everything under the party’s watch is glorious. Their deaths are testimony of its failure.
 
 * 🚀️ [Why You Should Worry About China’s Missing Minister](https://www.theatlantic.com/international/archive/2023/08/qin-gang-china-missing-foreign-minister/674954/) By Michael Schuman [2023/08/09]
