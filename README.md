@@ -22,11 +22,17 @@ Here we go~
 
 ## Business & Economy
 
+* 🚀️ [China’s Japanification](https://www.ft.com/content/52c805d5-c759-46cc-a0fe-2de2f2d71850) By Robin Wigglesworth [2023/08/18]
+> Earlier this month, JPMorgan analysts Haibin Zhu, Grace Ng, Tingting Ge and Ji Yan published a fascinating deep-dive into the subject, which we have finally digested. The tl;dr is that JPMorgan’s economists see some spooky similarities between China today and Japan in the 1990s, but “enough differences to suggest the ‘balance sheet recession’ diagnosis, and policy recommendations that flow from it, is/are not correct”.
+
 * 🚀️ [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
 > Much of China’s economic data is unnaturally smooth, that is showing less of the period-to-period variation that the economy typically experiences. In the case of GDP, that smoothness sometimes came from reporting lower actual growth and higher inflation than truly occurred—not the outcome you would expect if manipulation were the only explanation. 
 
 * 🚀️ [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
 > “Spending behavior has changed, especially for the country’s younger population,” said Dickie Wong, director of research at Kingston Securities Ltd. “The country’s economic outlook is gloomy, many couldn’t find dream jobs after graduation, so why bother planning and saving to buy a house or a car? We see the trend of people more willing to spend on travel, go to hotpot, drink with friends and buy clothes — the sense that you only live once.”
+
+* 🚀️ [China’s Economic—and Social—Contract Is Fraying](https://www.wsj.com/articles/chinas-economicand-socialcontract-is-fraying-70f03f44) By Nathaniel Taplin [2023/08/05]
+> But perhaps the most compelling explanation is this: Households have suffered an enormous, and possibly permanent, loss of confidence in both their future income prospects and the safety and value of their main financial asset, housing. And in both cases, Beijing’s recent policies deserve much of the blame, which may be one reason economic data has suddenly become so sensitive.
 
 * 🚀️ [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
 > The ruling Chinese Communist Party wants everyone to know that it is building “socialism with Chinese characteristics.” But based on its proven reluctance to spend on the Chinese people, even in circumstances that warrant short-term direct cash subsidies to consumers, the party looks more like a scrooge than a champion of socialism.
@@ -78,10 +84,16 @@ Here we go~
 * [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
 > Muammar Gaddafi died with a bayonet stuck out of his rear end. Saddam Hussein was almost completely decapitated when he was hanged because his executioners didn’t do, or didn’t know how to do, the basic but essential maths that works out the ratio between the length of the rope and the weight of the condemned. It’s true what your old teacher told you about maths being useful in all kinds of situations and professions. Besides the commonality of their gruesome deaths, they also had something else in common: both gave up their nuclear weapons programme.
 
+* 🚀️ [A New Cold War Could Be Much Worse Than the One We Remember](https://www.theatlantic.com/international/archive/2023/06/cold-war-china-risks/674272/) By Charles A. Kupchan [2023/06/03]
+> In contrast, today’s world is becoming more multipolar than bipolar; even if the globe is again afflicted by a new bout of East-West rivalry, many countries, including emerging heavyweights, will likely refuse to take sides. 
+
 ## Culture & Society
 
 * 🚀️ [For Single Women in China, Owning a Home Is a New Form of Resistance](https://www.nytimes.com/2023/08/18/world/asia/china-single-women-homebuyers.html) By Joy Dong [2023/08/18]
 > “I want to prove to everyone that women are not limited to the only option of marriage. I could have many other choices,” Ms. Guo said.
+
+* 🚀️ [China tries to figure out whom a hit song is mocking](https://www.economist.com/china/2023/08/17/china-tries-to-figure-out-whom-a-hit-song-is-mocking) By the Economist [2023/08/17]
+> “Luocha Haishi” is his comeback anthem, and many listeners interpret it as an attack on his critics (Dao Lang had more than a few). Some read his reference to a brothel as an allusion to the entertainment business. Other theories are more convoluted, such as that Dao Lang is attacking America. One version of this idea assumes the lyrics refer to Joe Biden, transgender officials and the Five Eyes intelligence alliance comprising America, Australia, Britain, Canada and New Zealand. It seems a little far-fetched.
 
 * 🚀️ [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
 > Disillusioned youngsters commonly express feelings of exhaustion and resignation. Some talk of “lying flat”, or dropping out of the rat race and abandoning material ambitions that do not seem attainable. The notion of “letting it rot” is even more nihilistic: it describes an attitude of self-indulgence. 
