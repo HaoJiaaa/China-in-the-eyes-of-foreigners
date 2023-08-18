@@ -80,6 +80,9 @@ Here we go~
 
 ## Culture & Society
 
+* 🚀️ [For Single Women in China, Owning a Home Is a New Form of Resistance](https://www.nytimes.com/2023/08/18/world/asia/china-single-women-homebuyers.html) By Joy Dong [2023/08/18]
+> “I want to prove to everyone that women are not limited to the only option of marriage. I could have many other choices,” Ms. Guo said.
+
 * 🚀️ [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
 > Disillusioned youngsters commonly express feelings of exhaustion and resignation. Some talk of “lying flat”, or dropping out of the rat race and abandoning material ambitions that do not seem attainable. The notion of “letting it rot” is even more nihilistic: it describes an attitude of self-indulgence. 
 
