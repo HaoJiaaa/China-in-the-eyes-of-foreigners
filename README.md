@@ -22,13 +22,16 @@ Here we go~
 
 ## Business & Economy
 
+* 🚀️ [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
+> Much of China’s economic data is unnaturally smooth, that is showing less of the period-to-period variation that the economy typically experiences. In the case of GDP, that smoothness sometimes came from reporting lower actual growth and higher inflation than truly occurred—not the outcome you would expect if manipulation were the only explanation. 
+
 * 🚀️ [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
 > “Spending behavior has changed, especially for the country’s younger population,” said Dickie Wong, director of research at Kingston Securities Ltd. “The country’s economic outlook is gloomy, many couldn’t find dream jobs after graduation, so why bother planning and saving to buy a house or a car? We see the trend of people more willing to spend on travel, go to hotpot, drink with friends and buy clothes — the sense that you only live once.”
 
 * 🚀️ [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
 > The ruling Chinese Communist Party wants everyone to know that it is building “socialism with Chinese characteristics.” But based on its proven reluctance to spend on the Chinese people, even in circumstances that warrant short-term direct cash subsidies to consumers, the party looks more like a scrooge than a champion of socialism.
 
-* 🚀️ [Why Is China’s Economy Stumbling?](https://www.nytimes.com/2023/08/10/opinion/china-economy-decline.html) By PAUL KRUGMAN [2023/08/10]
+* [Why Is China’s Economy Stumbling?](https://www.nytimes.com/2023/08/10/opinion/china-economy-decline.html) By PAUL KRUGMAN [2023/08/10]
 > But you don’t have to study much history to be aware that autocratic regimes sometimes respond to domestic difficulties by trying to distract the population with foreign adventurism. I’m not saying that will happen. But realistically, China’s domestic problems make it more, not less, of a danger to global security.
 
 * [Investors Visiting China Find Officials Fearful of Upsetting Xi](https://www.bloomberg.com/news/articles/2023-08-08/xi-speak-and-closed-doors-obscure-china-s-18-trillion-economy) By Lucille Liu, Rebecca Choong Wilkins, Richard Henderson, Jing Li, Yujing Liu, and Colum Murphy [2023/08/09]
@@ -48,10 +51,6 @@ Here we go~
 
 * [The Hunt for Best Bank Savings Rate in China May Require Trekking Hundreds of Miles](https://www.bloomberg.com/news/articles/2023-07-06/china-savers-trek-hundreds-of-miles-for-higher-deposit-rates#xj4y7vzkg) By Bloomberg News With Allen K Wan, Amanda Wang, Zheng Li, and Qi Ding [2023/07/06]
 > Meticulous planning, in-depth research and long-distance travel — welcome to the “special forces-style” hunt for the best bank deposit rates in China.
-
-* [Can the World Make an Electric Car Battery Without China?](https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html)
-  By Agnes Chang [2023/05/16]
-> It is one of the defining competitions of our age: The countries that can make batteries for electric cars will reap decades of economic and geopolitical advantages. Despite billions in Western investment, China is so far ahead — mining rare minerals, training engineers and building huge factories — that the rest of the world may take decades to catch up.
 
 ## Politics
 
@@ -107,6 +106,14 @@ Here we go~
 
 * [China’s Last Generation](https://www.noemamag.com/chinas-last-generation/) By Jacob Dreyer [2023/01/26]
 > The pandemic woke China’s young people up to the reality that their society is oriented to the values and priorities of the elderly, whose truths are very different from their own.
+
+## Technology
+
+* 🚀️ [Beijing's record rainfall - How heavy was the rain that inundated China's cities?](https://www.reuters.com/graphics/CHINA-WEATHER/RAINFALL/zdvxrrgbqvx/) By Jackie Gu, Sudev Kiyada, Adolfo Arranz, Jitesh Chowdhury, Han Huang, Vijdan Mohammad Kawoosa, David Stanway and Simon Scarr [2023/08/18]
+> “When you have a bunch of cities all trying to grow as quickly as possible, in as short a time as possible, it’s going to affect everything. The climate, the topology and the amount of rainfall,” he said. “What makes Chinese cities especially vulnerable is an issue of speed and scale, developing so broadly in so short a period.”
+
+* [Can the World Make an Electric Car Battery Without China?](https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html) By Agnes Chang [2023/05/16]
+> It is one of the defining competitions of our age: The countries that can make batteries for electric cars will reap decades of economic and geopolitical advantages. Despite billions in Western investment, China is so far ahead — mining rare minerals, training engineers and building huge factories — that the rest of the world may take decades to catch up.
 
 ## Stories of Individuals
 
