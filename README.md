@@ -81,6 +81,9 @@ Here we go~
 
 ## Culture & Society
 
+* 🚀️ [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
+> Disillusioned youngsters commonly express feelings of exhaustion and resignation. Some talk of “lying flat”, or dropping out of the rat race and abandoning material ambitions that do not seem attainable. The notion of “letting it rot” is even more nihilistic: it describes an attitude of self-indulgence. 
+
 * 🚀️ [Why are China’s young people so disillusioned?](https://www.economist.com/leaders/2023/08/17/why-are-chinas-young-people-so-disillusioned) By the Economist [2023/08/17]
 > The real question the party faces is more prosaic: not the threat of revolution, but a quiet rejection of its ambitions. In order to accomplish his goal of restoring China’s greatness, Mr Xi needs the young to get married, have children and reverse the country’s demographic decline. In order to refocus the economy on manufacturing and away from consumer-internet technology, he’d like them to study hard sciences, not dream of designing video games. And he wants more youngsters to work in factories, including the type that might produce weapons for China’s growing armed forces. “Endure hardships” and “eat bitterness”, Mr Xi tells the young. Many cannot see why they should.
 
