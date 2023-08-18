@@ -81,7 +81,10 @@ Here we go~
 
 ## Culture & Society
 
-* 🚀️ [Rock ’n’ Roll According to the Chinese Communist Party](https://www.nytimes.com/interactive/2023/08/13/world/asia/china-rock-song.html) By Vivian Wang and Weiyi Cai [2023/08/13]
+* 🚀️ [Why are China’s young people so disillusioned?](https://www.economist.com/leaders/2023/08/17/why-are-chinas-young-people-so-disillusioned) By the Economist [2023/08/17]
+> The real question the party faces is more prosaic: not the threat of revolution, but a quiet rejection of its ambitions. In order to accomplish his goal of restoring China’s greatness, Mr Xi needs the young to get married, have children and reverse the country’s demographic decline. In order to refocus the economy on manufacturing and away from consumer-internet technology, he’d like them to study hard sciences, not dream of designing video games. And he wants more youngsters to work in factories, including the type that might produce weapons for China’s growing armed forces. “Endure hardships” and “eat bitterness”, Mr Xi tells the young. Many cannot see why they should.
+
+* [Rock ’n’ Roll According to the Chinese Communist Party](https://www.nytimes.com/interactive/2023/08/13/world/asia/china-rock-song.html) By Vivian Wang and Weiyi Cai [2023/08/13]
 > China’s government has long used censorship to control expression. But sometimes, instead of outright erasing a form or message it doesn’t like, it co-opts it instead, transforming it to spread what the government calls “positive energy.” (Beijing has also promoted patriotic hip-hop.)
 
 * [Why Chinese women are denied legal land rights](https://www.economist.com/china/2023/08/10/why-chinese-women-are-denied-legal-land-rights) By the Economist [2023/08/10]
