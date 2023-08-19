@@ -28,6 +28,9 @@ Here we go~
 * 🚀️ [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
 > Much of China’s economic data is unnaturally smooth, that is showing less of the period-to-period variation that the economy typically experiences. In the case of GDP, that smoothness sometimes came from reporting lower actual growth and higher inflation than truly occurred—not the outcome you would expect if manipulation were the only explanation. 
 
+* 🚀️ [China Is Hiding More and More Data From the Rest of the World](https://www.bloomberg.com/news/articles/2023-08-18/china-steps-up-efforts-to-stablize-markets-as-confidence-plunges#xj4y7vzkg) By Bloomberg News [2023/08/16]
+> As China’s economy battles a slew of threats to its economic expansion target for 2023, a wider range of data is being deemed unsuitable for public consumption. President Xi Jinping’s ideological battle with the US has also motivated Beijing to ringfence data it believes could advantage the Biden administration.
+
 * 🚀️ [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
 > “Spending behavior has changed, especially for the country’s younger population,” said Dickie Wong, director of research at Kingston Securities Ltd. “The country’s economic outlook is gloomy, many couldn’t find dream jobs after graduation, so why bother planning and saving to buy a house or a car? We see the trend of people more willing to spend on travel, go to hotpot, drink with friends and buy clothes — the sense that you only live once.”
 
