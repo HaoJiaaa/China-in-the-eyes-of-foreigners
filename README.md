@@ -92,6 +92,9 @@ Here we go~
 
 ## Culture & Society
 
+* 🚀️ [A talking monkey is one of China’s most successful cultural exports](https://www.economist.com/culture/2023/08/18/a-talking-monkey-is-one-of-chinas-most-successful-cultural-exports) By the Economist [2023/08/18]
+> With geopolitical tensions between China and America rising, even this beloved cultural icon is raising hackles. Netizens in China who watched the trailer complained that the cartoon creature looked too “Western” and criticised the film as yet another attempt to stereotype the “mysterious power of the East”. As a seventh-century monk must once have observed, there are always obstacles on a journey to the West. 
+
 * 🚀️ [For Single Women in China, Owning a Home Is a New Form of Resistance](https://www.nytimes.com/2023/08/18/world/asia/china-single-women-homebuyers.html) By Joy Dong [2023/08/18]
 > “I want to prove to everyone that women are not limited to the only option of marriage. I could have many other choices,” Ms. Guo said.
 
