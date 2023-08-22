@@ -123,6 +123,9 @@ Here we go~
 * [The End of Optimism in China](https://www.theatlantic.com/international/archive/2023/06/-china-pessimism-economy-censorship/674556/)  By Michael Schuman [2023/06/29]
 > An online post by the Communist Party Youth League and state broadcaster CCTV used the fate of Kong Yiji to scold the young and jobless as arrogant and lazy. Kong failed “because he couldn’t let go of the airs of a scholar and was unwilling to change his situation through labor,” the post lectured. Xi—who has said he opposes the “idleness-breeding trap of welfarism”—has told his nation’s struggling youth to learn to “eat bitterness.”
 
+* [The Double Education of My Twins’ Chinese School](https://www.newyorker.com/magazine/2023/07/03/the-double-education-of-my-twins-chinese-school) By Peter Hessler [2023/06/26]
+> The President of China compared moral education to buttons on clothes. The girls’ buttons were wrong from the start, but they learned the more valuable lessons that two systems can impart.
+
 * [People in China are so worried about the economy they’re asking for divine intervention](https://edition.cnn.com/2023/06/09/economy/china-unemployment-temple-lottery-intl-hnk/index.html) By Laura He [2023/06/09]
 > “No school-going, no hard-working, only incense-burning” has been a popular hashtag on social media since March, referring to a growing trend among young people in China who escape a pressure-cooker society by going to temples to pray for luck.
 
