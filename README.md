@@ -92,22 +92,25 @@ Here we go~
 
 ## Culture & Society
 
-* 🚀️ [A talking monkey is one of China’s most successful cultural exports](https://www.economist.com/culture/2023/08/18/a-talking-monkey-is-one-of-chinas-most-successful-cultural-exports) By the Economist [2023/08/18]
+* 🚀️ [How an amateur football league in China took off](https://www.economist.com/china/2023/08/24/how-an-amateur-football-league-in-china-took-off) By the Economist [2023/08/24]
+> There are many reasons behind the popularity of the Rongjiang league, which is men only. Start with the state of professional football. Despite decades of investment by China’s leader and chief fan, Xi Jinping, the country’s players are not very good. 
+
+* [A talking monkey is one of China’s most successful cultural exports](https://www.economist.com/culture/2023/08/18/a-talking-monkey-is-one-of-chinas-most-successful-cultural-exports) By the Economist [2023/08/18]
 > With geopolitical tensions between China and America rising, even this beloved cultural icon is raising hackles. Netizens in China who watched the trailer complained that the cartoon creature looked too “Western” and criticised the film as yet another attempt to stereotype the “mysterious power of the East”. As a seventh-century monk must once have observed, there are always obstacles on a journey to the West. 
 
-* 🚀️ [For Single Women in China, Owning a Home Is a New Form of Resistance](https://www.nytimes.com/2023/08/18/world/asia/china-single-women-homebuyers.html) By Joy Dong [2023/08/18]
+* [For Single Women in China, Owning a Home Is a New Form of Resistance](https://www.nytimes.com/2023/08/18/world/asia/china-single-women-homebuyers.html) By Joy Dong [2023/08/18]
 > “I want to prove to everyone that women are not limited to the only option of marriage. I could have many other choices,” Ms. Guo said.
 
-* 🚀️ [China tries to figure out whom a hit song is mocking](https://www.economist.com/china/2023/08/17/china-tries-to-figure-out-whom-a-hit-song-is-mocking) By the Economist [2023/08/17]
+* [China tries to figure out whom a hit song is mocking](https://www.economist.com/china/2023/08/17/china-tries-to-figure-out-whom-a-hit-song-is-mocking) By the Economist [2023/08/17]
 > “Luocha Haishi” is his comeback anthem, and many listeners interpret it as an attack on his critics (Dao Lang had more than a few). Some read his reference to a brothel as an allusion to the entertainment business. Other theories are more convoluted, such as that Dao Lang is attacking America. One version of this idea assumes the lyrics refer to Joe Biden, transgender officials and the Five Eyes intelligence alliance comprising America, Australia, Britain, Canada and New Zealand. It seems a little far-fetched.
 
-* 🚀️ [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
+* [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
 > Disillusioned youngsters commonly express feelings of exhaustion and resignation. Some talk of “lying flat”, or dropping out of the rat race and abandoning material ambitions that do not seem attainable. The notion of “letting it rot” is even more nihilistic: it describes an attitude of self-indulgence. 
 
 * 🚀️ [Why are China’s young people so disillusioned?](https://www.economist.com/leaders/2023/08/17/why-are-chinas-young-people-so-disillusioned) By the Economist [2023/08/17]
 > The real question the party faces is more prosaic: not the threat of revolution, but a quiet rejection of its ambitions. In order to accomplish his goal of restoring China’s greatness, Mr Xi needs the young to get married, have children and reverse the country’s demographic decline. In order to refocus the economy on manufacturing and away from consumer-internet technology, he’d like them to study hard sciences, not dream of designing video games. And he wants more youngsters to work in factories, including the type that might produce weapons for China’s growing armed forces. “Endure hardships” and “eat bitterness”, Mr Xi tells the young. Many cannot see why they should.
 
-* 🚀️ [China: Combat Anti-Black Racism on Social Media](https://www.hrw.org/news/2023/08/16/china-combat-anti-black-racism-social-media) By Human Rights Watch [2023/08/16]
+* [China: Combat Anti-Black Racism on Social Media](https://www.hrw.org/news/2023/08/16/china-combat-anti-black-racism-social-media) By Human Rights Watch [2023/08/16]
 > The Chinese government should acknowledge and condemn anti-Black racism prevalent on the Chinese internet and adopt measures to promote tolerance and fight prejudice, Human Rights Watch said today. Chinese social media platforms, which are quick to delete content critical of the Chinese government, should remove racist content that violates their community standards on hate speech, or might incite racial discrimination or violence.
 
 * [Rock ’n’ Roll According to the Chinese Communist Party](https://www.nytimes.com/interactive/2023/08/13/world/asia/china-rock-song.html) By Vivian Wang and Weiyi Cai [2023/08/13]
@@ -115,7 +118,6 @@ Here we go~
 
 * [China has fallen into a psycho-political funk](https://www.ft.com/content/c1670ac4-5eaf-453a-b5fe-497d0a5368fe) By James Kynge [2023/08/12]
 >As the revival in Soviet-style jokes hints at, China’s malaise is only partly economic. The deep context behind several of the impediments to growth is a strange hybrid of psychological and political factors — a sort of psycho-political funk.
-
 
 * [Why Chinese women are denied legal land rights](https://www.economist.com/china/2023/08/10/why-chinese-women-are-denied-legal-land-rights) By the Economist [2023/08/10]
 > The National People’s Congress is pondering changes to the law to improve the definition of village land rights and membership of rural collectives. Reformers see a chance to advance gender equality. Alas, appeasing majority opinion weighs heavily on officials whose greatest duty, arguably, is weiwen, or stability maintenance. The Communist Party came to power promising to emancipate women from feudalism. Now it co-opts ancestral clans and their patriarchal values. China’s rulers are obsessed with order, as an adjunct to power. And power is in the party’s blood.
@@ -147,6 +149,9 @@ Here we go~
 > It is one of the defining competitions of our age: The countries that can make batteries for electric cars will reap decades of economic and geopolitical advantages. Despite billions in Western investment, China is so far ahead — mining rare minerals, training engineers and building huge factories — that the rest of the world may take decades to catch up.
 
 ## Stories of Individuals
+
+* 🚀️ [Isabel Crook, Maoist English teacher who spent her life in China supporting the regime](https://www.telegraph.co.uk/obituaries/2023/08/25/isabel-crook-maoist-spent-life-in-china-died-obituary/) By Telegraph Obituaries [2023/08/25]
+> But David Mulroney, a former Canadian ambassador to China, was withering: “Not only is the example of Isabel Crook unlikely to inspire much more than compassion for her suffering on behalf of such an unworthy cause, but... we are also reminded that the Communist Party of China has a long history of capriciously locking up foreigners.
 
 * [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
 > This was in 2016, a time when short-form online videos were becoming popular in China, and the so-called Wanghong economy—the influencer-to-online-commerce pipeline—was emerging as a major economic possibility for millennials. Young rural migrant workers, hoping to get noticed, made videos that exaggerated the consumptive excesses of city life. Li’s concept went in entirely the opposite direction, speaking to a growing subculture of those embracing Han neo-traditionalism as a solution to ever-westernizing Chinese cosmopolitanism.
