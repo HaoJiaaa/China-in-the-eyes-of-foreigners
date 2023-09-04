@@ -63,10 +63,13 @@ Here we go~
 
 ## Politics
 
-* 🚀️ [When Tragedy Strikes in China, the Government Cracks Down on Grief](https://www.nytimes.com/2023/08/14/business/china-flooding-tragedy-mourning.html) By Li Yuan [2023/08/14]
+* 🚀️ [How Xi Returned China to One-Man Rule](https://www.nytimes.com/interactive/2023/09/02/world/asia/china-xi-rule.html) By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles [2023/09/02]
+> For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.
+
+* [When Tragedy Strikes in China, the Government Cracks Down on Grief](https://www.nytimes.com/2023/08/14/business/china-flooding-tragedy-mourning.html) By Li Yuan [2023/08/14]
 > In the view of the Chinese Communist Party, its rule should be celebrated no matter the circumstances. Victims of public tragedies are inconvenient facts highlighting that not everything under the party’s watch is glorious. Their deaths are testimony of its failure.
 
-* 🚀️ [Why You Should Worry About China’s Missing Minister](https://www.theatlantic.com/international/archive/2023/08/qin-gang-china-missing-foreign-minister/674954/) By Michael Schuman [2023/08/09]
+* [Why You Should Worry About China’s Missing Minister](https://www.theatlantic.com/international/archive/2023/08/qin-gang-china-missing-foreign-minister/674954/) By Michael Schuman [2023/08/09]
 > If the world’s best China experts can’t figure out what happened to one of the country’s most internationally recognizable officials, then imagine what else remains hidden behind the regime’s closed doors.
 
 * [China Emphasizes Absent Xi Has Been ‘Strong’ in Flood Response](https://www.bloomberg.com/news/articles/2023-08-07/china-emphasizes-absent-xi-has-been-strong-in-flood-response) By John Liu [2023/08/08]
@@ -87,12 +90,15 @@ Here we go~
 * [Beijing can’t make North Korea ‘denuclearise’, Mr Blinken](https://www.scmp.com/comment/article/3228727/beijing-cant-make-north-korea-denuclearise-mr-blinken) By Alex Lo  [2023/07/24]
 > Muammar Gaddafi died with a bayonet stuck out of his rear end. Saddam Hussein was almost completely decapitated when he was hanged because his executioners didn’t do, or didn’t know how to do, the basic but essential maths that works out the ratio between the length of the rope and the weight of the condemned. It’s true what your old teacher told you about maths being useful in all kinds of situations and professions. Besides the commonality of their gruesome deaths, they also had something else in common: both gave up their nuclear weapons programme.
 
-* 🚀️ [A New Cold War Could Be Much Worse Than the One We Remember](https://www.theatlantic.com/international/archive/2023/06/cold-war-china-risks/674272/) By Charles A. Kupchan [2023/06/03]
+* [A New Cold War Could Be Much Worse Than the One We Remember](https://www.theatlantic.com/international/archive/2023/06/cold-war-china-risks/674272/) By Charles A. Kupchan [2023/06/03]
 > In contrast, today’s world is becoming more multipolar than bipolar; even if the globe is again afflicted by a new bout of East-West rivalry, many countries, including emerging heavyweights, will likely refuse to take sides. 
 
 ## Culture & Society
 
-* 🚀️ [How an amateur football league in China took off](https://www.economist.com/china/2023/08/24/how-an-amateur-football-league-in-china-took-off) By the Economist [2023/08/24]
+* 🚀️ [China to Its People: Spies Are Everywhere, Help Us Catch Them](https://www.nytimes.com/2023/09/02/world/asia/china-spies-campaign.html) By Vivian Wang [2023/09/02]
+> As Beijing tries to enlist the “whole of society” to guard against foreign enemies, the line between vigilance and paranoia fades.
+
+* [How an amateur football league in China took off](https://www.economist.com/china/2023/08/24/how-an-amateur-football-league-in-china-took-off) By the Economist [2023/08/24]
 > There are many reasons behind the popularity of the Rongjiang league, which is men only. Start with the state of professional football. Despite decades of investment by China’s leader and chief fan, Xi Jinping, the country’s players are not very good. 
 
 * [A talking monkey is one of China’s most successful cultural exports](https://www.economist.com/culture/2023/08/18/a-talking-monkey-is-one-of-chinas-most-successful-cultural-exports) By the Economist [2023/08/18]
