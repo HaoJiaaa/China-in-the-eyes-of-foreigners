@@ -63,6 +63,9 @@ Here we go~
 
 ## Politics
 
+* 🚀️ [Xi's G20 snub marks shift from statesman to China 'emperor'](https://www.bloomberg.com/news/articles/2023-09-04/xi-s-g-20-snub-marks-shift-from-statesman-to-china-emperor)  By Bloomberg News [2023/09/04]
+> Back then, Xi stressed the importance of dialogue, telling US President Joe Biden it was a statesman’s responsibility to “get along with other countries.”
+
 * 🚀️ [How Xi Returned China to One-Man Rule](https://www.nytimes.com/interactive/2023/09/02/world/asia/china-xi-rule.html) By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles [2023/09/02]
 > For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.
 
