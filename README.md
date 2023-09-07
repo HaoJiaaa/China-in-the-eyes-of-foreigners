@@ -22,7 +22,13 @@ Here we go~
 
 ## Business & Economy
 
-* 🚀️ [China’s Japanification](https://www.ft.com/content/52c805d5-c759-46cc-a0fe-2de2f2d71850) By Robin Wigglesworth [2023/08/18]
+* 🚀️ [Paul Krugman’s Economic Advice to China: ‘Live a Little’](https://www.nytimes.com/2023/09/06/opinion/china-economy-spending-capitalism.html?) By Paul Krugman [2023/09/06]
+> China has the problem that it has a regime that is, at a deep level, hypocritical. It preaches Marxism and equality and the coming Communist utopia and practices rapacious, highly unequal capitalism.
+
+* 🚀️ [Why Is China in So Much Trouble?](https://www.nytimes.com/2023/08/31/opinion/china-xi-jinping-policy-thrift.html#commentsContainer) By Paul Krugman [2023/08/31]
+> My sense is that much writing about China puts too much weight on recent events and policy. Yes, Xi Jinping is an erratic leader. But China’s economic problems have been building for a long time. And while Xi’s failure to address these problems adequately no doubt reflects his personal limitations, it also reflects some deep ideological biases within China’s ruling party.
+
+* [China’s Japanification](https://www.ft.com/content/52c805d5-c759-46cc-a0fe-2de2f2d71850) By Robin Wigglesworth [2023/08/18]
 > Earlier this month, JPMorgan analysts Haibin Zhu, Grace Ng, Tingting Ge and Ji Yan published a fascinating deep-dive into the subject, which we have finally digested. The tl;dr is that JPMorgan’s economists see some spooky similarities between China today and Japan in the 1990s, but “enough differences to suggest the ‘balance sheet recession’ diagnosis, and policy recommendations that flow from it, is/are not correct”.
 
 * 🚀️ [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
