@@ -22,28 +22,28 @@ Here we go~
 
 ## Business & Economy
 
-* 🚀️ [Paul Krugman’s Economic Advice to China: ‘Live a Little’](https://www.nytimes.com/2023/09/06/opinion/china-economy-spending-capitalism.html?) By Paul Krugman [2023/09/06]
+* [Paul Krugman’s Economic Advice to China: ‘Live a Little’](https://www.nytimes.com/2023/09/06/opinion/china-economy-spending-capitalism.html?) By Paul Krugman [2023/09/06]
 > China has the problem that it has a regime that is, at a deep level, hypocritical. It preaches Marxism and equality and the coming Communist utopia and practices rapacious, highly unequal capitalism.
 
-* 🚀️ [Why Is China in So Much Trouble?](https://www.nytimes.com/2023/08/31/opinion/china-xi-jinping-policy-thrift.html#commentsContainer) By Paul Krugman [2023/08/31]
+* [Why Is China in So Much Trouble?](https://www.nytimes.com/2023/08/31/opinion/china-xi-jinping-policy-thrift.html#commentsContainer) By Paul Krugman [2023/08/31]
 > My sense is that much writing about China puts too much weight on recent events and policy. Yes, Xi Jinping is an erratic leader. But China’s economic problems have been building for a long time. And while Xi’s failure to address these problems adequately no doubt reflects his personal limitations, it also reflects some deep ideological biases within China’s ruling party.
 
 * [China’s Japanification](https://www.ft.com/content/52c805d5-c759-46cc-a0fe-2de2f2d71850) By Robin Wigglesworth [2023/08/18]
 > Earlier this month, JPMorgan analysts Haibin Zhu, Grace Ng, Tingting Ge and Ji Yan published a fascinating deep-dive into the subject, which we have finally digested. The tl;dr is that JPMorgan’s economists see some spooky similarities between China today and Japan in the 1990s, but “enough differences to suggest the ‘balance sheet recession’ diagnosis, and policy recommendations that flow from it, is/are not correct”.
 
-* 🚀️ [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
+* [Is China’s Data Manipulated, or Flawed? Maybe Both](https://www.wsj.com/world/china/is-chinas-data-manipulated-or-flawed-maybe-both-fe142055) By Josh Zumbrun [2023/08/18]
 > Much of China’s economic data is unnaturally smooth, that is showing less of the period-to-period variation that the economy typically experiences. In the case of GDP, that smoothness sometimes came from reporting lower actual growth and higher inflation than truly occurred—not the outcome you would expect if manipulation were the only explanation. 
 
-* 🚀️ [China Is Hiding More and More Data From the Rest of the World](https://www.bloomberg.com/news/articles/2023-08-18/china-steps-up-efforts-to-stablize-markets-as-confidence-plunges#xj4y7vzkg) By Bloomberg News [2023/08/16]
+* [China Is Hiding More and More Data From the Rest of the World](https://www.bloomberg.com/news/articles/2023-08-18/china-steps-up-efforts-to-stablize-markets-as-confidence-plunges#xj4y7vzkg) By Bloomberg News [2023/08/16]
 > As China’s economy battles a slew of threats to its economic expansion target for 2023, a wider range of data is being deemed unsuitable for public consumption. President Xi Jinping’s ideological battle with the US has also motivated Beijing to ringfence data it believes could advantage the Biden administration.
 
-* 🚀️ [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
+* [China’s Top Brands Turn Cautious Over Economic Recovery](https://www.bloomberg.com/news/articles/2023-08-15/brands-grow-cautious-over-china-s-economic-recovery-with-divergence-in-spending#xj4y7vzkg) By Bloomberg News with Jinshan Hong, Daniela Wei, Charlotte Yang, Irene Huang, Shirley Zhao, and Yujing Liu [2023/08/16]
 > “Spending behavior has changed, especially for the country’s younger population,” said Dickie Wong, director of research at Kingston Securities Ltd. “The country’s economic outlook is gloomy, many couldn’t find dream jobs after graduation, so why bother planning and saving to buy a house or a car? We see the trend of people more willing to spend on travel, go to hotpot, drink with friends and buy clothes — the sense that you only live once.”
 
-* 🚀️ [China’s Economic—and Social—Contract Is Fraying](https://www.wsj.com/articles/chinas-economicand-socialcontract-is-fraying-70f03f44) By Nathaniel Taplin [2023/08/15]
+* [China’s Economic—and Social—Contract Is Fraying](https://www.wsj.com/articles/chinas-economicand-socialcontract-is-fraying-70f03f44) By Nathaniel Taplin [2023/08/15]
 > But perhaps the most compelling explanation is this: Households have suffered an enormous, and possibly permanent, loss of confidence in both their future income prospects and the safety and value of their main financial asset, housing. And in both cases, Beijing’s recent policies deserve much of the blame, which may be one reason economic data has suddenly become so sensitive.
 
-* 🚀️ [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
+* [China Is Acting More Like a Scrooge Than a Champion of Socialism](https://www.bloomberg.com/opinion/articles/2023-08-14/china-economy-why-won-t-the-party-spend-on-citizens) By Minxin Pei [2023/08/15]
 > The ruling Chinese Communist Party wants everyone to know that it is building “socialism with Chinese characteristics.” But based on its proven reluctance to spend on the Chinese people, even in circumstances that warrant short-term direct cash subsidies to consumers, the party looks more like a scrooge than a champion of socialism.
 
 * [Why Is China’s Economy Stumbling?](https://www.nytimes.com/2023/08/10/opinion/china-economy-decline.html) By PAUL KRUGMAN [2023/08/10]
@@ -69,10 +69,13 @@ Here we go~
 
 ## Politics
 
-* 🚀️ [Xi's G20 snub marks shift from statesman to China 'emperor'](https://www.bloomberg.com/news/articles/2023-09-04/xi-s-g-20-snub-marks-shift-from-statesman-to-china-emperor)  By Bloomberg News [2023/09/04]
+* 🚀️ [China expert Matt Pottinger: ‘Even with a weak economy, Xi is feeling emboldened’](https://www.ft.com/content/3de1aca1-f923-4b47-817b-af5da1a30f44) By Henry Mance [2023/10/09]
+> Pottinger’s best guess is that upheaval is a feature, not a bug, of Xi’s rule. In 11 years in power, the Chinese president has removed “six politburo members, 35 central committee members, 60 generals and the best estimate I’ve seen is that he’s purged around 3.5mn people in the party”. The latest turnover may be “a proactive set of moves designed to keep the party off balance in a way that deepens his primacy”.
+
+* [Xi's G20 snub marks shift from statesman to China 'emperor'](https://www.bloomberg.com/news/articles/2023-09-04/xi-s-g-20-snub-marks-shift-from-statesman-to-china-emperor)  By Bloomberg News [2023/09/04]
 > Back then, Xi stressed the importance of dialogue, telling US President Joe Biden it was a statesman’s responsibility to “get along with other countries.”
 
-* 🚀️ [How Xi Returned China to One-Man Rule](https://www.nytimes.com/interactive/2023/09/02/world/asia/china-xi-rule.html) By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles [2023/09/02]
+* [How Xi Returned China to One-Man Rule](https://www.nytimes.com/interactive/2023/09/02/world/asia/china-xi-rule.html) By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles [2023/09/02]
 > For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.
 
 * [When Tragedy Strikes in China, the Government Cracks Down on Grief](https://www.nytimes.com/2023/08/14/business/china-flooding-tragedy-mourning.html) By Li Yuan [2023/08/14]
@@ -104,7 +107,7 @@ Here we go~
 
 ## Culture & Society
 
-* 🚀️ [China to Its People: Spies Are Everywhere, Help Us Catch Them](https://www.nytimes.com/2023/09/02/world/asia/china-spies-campaign.html) By Vivian Wang [2023/09/02]
+* [China to Its People: Spies Are Everywhere, Help Us Catch Them](https://www.nytimes.com/2023/09/02/world/asia/china-spies-campaign.html) By Vivian Wang [2023/09/02]
 > As Beijing tries to enlist the “whole of society” to guard against foreign enemies, the line between vigilance and paranoia fades.
 
 * [How an amateur football league in China took off](https://www.economist.com/china/2023/08/24/how-an-amateur-football-league-in-china-took-off) By the Economist [2023/08/24]
@@ -122,7 +125,7 @@ Here we go~
 * [China’s defeated youth](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth) By the Economist [2023/08/17]
 > Disillusioned youngsters commonly express feelings of exhaustion and resignation. Some talk of “lying flat”, or dropping out of the rat race and abandoning material ambitions that do not seem attainable. The notion of “letting it rot” is even more nihilistic: it describes an attitude of self-indulgence. 
 
-* 🚀️ [Why are China’s young people so disillusioned?](https://www.economist.com/leaders/2023/08/17/why-are-chinas-young-people-so-disillusioned) By the Economist [2023/08/17]
+* [Why are China’s young people so disillusioned?](https://www.economist.com/leaders/2023/08/17/why-are-chinas-young-people-so-disillusioned) By the Economist [2023/08/17]
 > The real question the party faces is more prosaic: not the threat of revolution, but a quiet rejection of its ambitions. In order to accomplish his goal of restoring China’s greatness, Mr Xi needs the young to get married, have children and reverse the country’s demographic decline. In order to refocus the economy on manufacturing and away from consumer-internet technology, he’d like them to study hard sciences, not dream of designing video games. And he wants more youngsters to work in factories, including the type that might produce weapons for China’s growing armed forces. “Endure hardships” and “eat bitterness”, Mr Xi tells the young. Many cannot see why they should.
 
 * [China: Combat Anti-Black Racism on Social Media](https://www.hrw.org/news/2023/08/16/china-combat-anti-black-racism-social-media) By Human Rights Watch [2023/08/16]
@@ -157,7 +160,7 @@ Here we go~
 
 ## Technology
 
-* 🚀️ [Beijing's record rainfall - How heavy was the rain that inundated China's cities?](https://www.reuters.com/graphics/CHINA-WEATHER/RAINFALL/zdvxrrgbqvx/) By Jackie Gu, Sudev Kiyada, Adolfo Arranz, Jitesh Chowdhury, Han Huang, Vijdan Mohammad Kawoosa, David Stanway and Simon Scarr [2023/08/18]
+* [Beijing's record rainfall - How heavy was the rain that inundated China's cities?](https://www.reuters.com/graphics/CHINA-WEATHER/RAINFALL/zdvxrrgbqvx/) By Jackie Gu, Sudev Kiyada, Adolfo Arranz, Jitesh Chowdhury, Han Huang, Vijdan Mohammad Kawoosa, David Stanway and Simon Scarr [2023/08/18]
 > “When you have a bunch of cities all trying to grow as quickly as possible, in as short a time as possible, it’s going to affect everything. The climate, the topology and the amount of rainfall,” he said. “What makes Chinese cities especially vulnerable is an issue of speed and scale, developing so broadly in so short a period.”
 
 * [Can the World Make an Electric Car Battery Without China?](https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html) By Agnes Chang [2023/05/16]
@@ -165,7 +168,7 @@ Here we go~
 
 ## Stories of Individuals
 
-* 🚀️ [Isabel Crook, Maoist English teacher who spent her life in China supporting the regime](https://www.telegraph.co.uk/obituaries/2023/08/25/isabel-crook-maoist-spent-life-in-china-died-obituary/) By Telegraph Obituaries [2023/08/25]
+* [Isabel Crook, Maoist English teacher who spent her life in China supporting the regime](https://www.telegraph.co.uk/obituaries/2023/08/25/isabel-crook-maoist-spent-life-in-china-died-obituary/) By Telegraph Obituaries [2023/08/25]
 > But David Mulroney, a former Canadian ambassador to China, was withering: “Not only is the example of Isabel Crook unlikely to inspire much more than compassion for her suffering on behalf of such an unworthy cause, but... we are also reminded that the Communist Party of China has a long history of capriciously locking up foreigners.
 
 * [Li Ziqi’s Online Pastoral Poetics](https://www.newyorker.com/culture/rabbit-holes/li-ziqis-online-pastoral-poetics) By Oscar Schwartz [2023/08/04]
