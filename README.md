@@ -69,6 +69,9 @@ Here we go~
 
 ## Politics
 
+* 🚀️ [China’s Economic Stake in the Middle East: Its Thirst for Oil](https://www.nytimes.com/2023/10/11/business/china-oil-saudi-arabia-iran.html) By Keith Bradsher [2023/10/11]
+> Beijing has tried hard to stay on friendly terms with the Islamic world even as China has cracked down on predominantly Muslim minorities in its far western region, Xinjiang. China has also tried to maintain relations with both Israel and Palestinians. “The only way China has been able to achieve that goal is to avoid getting deeply involved,” Ms. Glaser said. But whether China can maintain its distance from the Mideast’s troubles is less clear.
+
 * 🚀️ [China expert Matt Pottinger: ‘Even with a weak economy, Xi is feeling emboldened’](https://www.ft.com/content/3de1aca1-f923-4b47-817b-af5da1a30f44) By Henry Mance [2023/10/09]
 > Pottinger’s best guess is that upheaval is a feature, not a bug, of Xi’s rule. In 11 years in power, the Chinese president has removed “six politburo members, 35 central committee members, 60 generals and the best estimate I’ve seen is that he’s purged around 3.5mn people in the party”. The latest turnover may be “a proactive set of moves designed to keep the party off balance in a way that deepens his primacy”.
 
