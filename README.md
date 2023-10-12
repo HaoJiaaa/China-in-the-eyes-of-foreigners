@@ -22,6 +22,9 @@ Here we go~
 
 ## Business & Economy
 
+* 🚀️ [‘Whichever Is Cheaper’: Inside China’s New Thrift Economy](https://www.nytimes.com/2023/10/11/business/china-consumer-spending.html) By Claire Fu and Daisuke Wakabayashi [2023/10/11]
+> Beijing hopes spending can spur growth, which has been dragged down by slowing real estate sales and exports. But shoppers are gravitating to discounts.
+
 * [Paul Krugman’s Economic Advice to China: ‘Live a Little’](https://www.nytimes.com/2023/09/06/opinion/china-economy-spending-capitalism.html?) By Paul Krugman [2023/09/06]
 > China has the problem that it has a regime that is, at a deep level, hypocritical. It preaches Marxism and equality and the coming Communist utopia and practices rapacious, highly unequal capitalism.
 
